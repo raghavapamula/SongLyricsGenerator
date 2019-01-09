@@ -1,4 +1,5 @@
 # SongLyricsGenerator
+[Try it out](https://raghavapamula.com/SongLyricsGenerator)
 
 # How it works
 The application Uses Markov Chains to generate lyrics in the style of existing artists.
